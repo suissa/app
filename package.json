@@ -35,7 +35,7 @@
     "component": "~0.16.7",
     "component-builder": "~0.8.2",
     "string-to-js": "0.0.1",
-    "passport": "~0.1.17",
+    "passport": "~0.7.0",
     "passport-local": "~0.1.6",
     "passport-local-mongoose": "~0.2.4",
     "passport-facebook": "~0.1.5",
@@ -43,7 +43,7 @@
     "http-auth": "*",
     "nodemailer": "*",
     "imap": "*",
-    "marked": "~0.2.9"
+    "marked": "~16.4.1"
   },
   "devDependencies": {},
   "main": "pdr",
